@@ -16,7 +16,7 @@ Create a client, then call commands on it.
 package main
 
 import (
-	medium "github.com/medium/medium-sdk-go"
+	medium "github.com/Medium/medium-sdk-go"
 	"log"
 )
 
